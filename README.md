@@ -7,6 +7,7 @@ tutorials for Machine Learning
 	https://www.coursera.org/learn/machine-learning
 - Machine Learning Framework: TensorFlow 
 	https://github.com/tensorflow/tensorflow
+	https://github.com/horance-liu/tensorflow-internals
 - pytorch
   https://pytorch.org/
   https://github.com/pytorch/pytorch
