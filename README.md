@@ -13,6 +13,9 @@ tutorials for Machine Learning
   https://github.com/pytorch/pytorch
 - Sklearn
 	https://scikit-learn.org/stable/
+- Machine Learning Yearning
+	https://github.com/deeplearning-ai/machine-learning-yearning-cn
+	
 
 
 ## Deep Learning
