@@ -33,9 +33,9 @@ tutorials for Machine Learning
 	https://github.com/hackersun/DeepNude-an-Image-to-Image-technology
 
 
-## 
-《动手学深度学习》PyTorch版本
-《深度学习入门》 https://book.douban.com/subject/30270959/
-《机器学习》周志华
-《深度学习 Deep Learning》
-《统计学习方法》，李航
+## 入门
+- 《动手学深度学习》PyTorch版本
+- 《深度学习入门》 https://book.douban.com/subject/30270959/
+- 《机器学习》周志华
+- 《深度学习 Deep Learning》
+- 《统计学习方法》，李航
