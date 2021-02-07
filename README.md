@@ -16,7 +16,10 @@ tutorials for Machine Learning
 - Machine Learning Yearning
 	https://github.com/deeplearning-ai/machine-learning-yearning-cn
 	https://www.deeplearning.ai/machine-learning-yearning/
-	
+- Tensor Flow
+	英文官方网站：http://tensorflow.org/
+	官方GitHub仓库：https://github.com/tensorflow/tensorflow
+	中文版 GitHub 仓库：https://github.com/jikexueyuanwiki/tensorflow-zh, https://wiki.jikexueyuan.com/project/tensorflow-zh/
 
 
 ## Deep Learning
